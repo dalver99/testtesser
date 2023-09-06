@@ -1,5 +1,8 @@
 # testtesser
 
+Simple code to read Korean from Tesseract.
+Mask the text image with png for UI interactions (POC).
+
 https://github.com/UB-Mannheim/tesseract/wiki
 
 download and install tesseract, then add location to PATH
